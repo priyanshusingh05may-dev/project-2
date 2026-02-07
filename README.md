@@ -51,6 +51,14 @@ Beyond Price: Investigate "Service Quality" and "Customer Experience" metrics, a
 
 🖥️ Dashboard & Visualizations
 <img width="1070" height="697" alt="download" src="https://github.com/user-attachments/assets/8379c459-b0ae-45af-83b9-b200a326d481" />
+<img width="1079" height="1406" alt="download (1)" src="https://github.com/user-attachments/assets/50f8fa15-e882-47f4-b3cd-12952842e01d" />
+<img width="1058" height="1406" alt="download (2)" src="https://github.com/user-attachments/assets/192a6712-ef84-4387-82ae-fe6b6ca411b8" />
+<img width="1060" height="605" alt="download (3)" src="https://github.com/user-attachments/assets/6d9f708a-1f6c-48ba-ac82-ac05dcbe38af" />
+<img width="1073" height="2765" alt="download (4)" src="https://github.com/user-attachments/assets/f7d13ab8-64d8-4c51-aa5a-49741260ca43" />
+
+
+
+
 
 
 1. Customer Distribution & Churn Status
